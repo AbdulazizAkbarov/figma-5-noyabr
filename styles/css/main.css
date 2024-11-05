@@ -1,0 +1,71 @@
+header .main_hero .carousel_slide {
+  position: relative;
+}
+header .main_hero .carousel_slide .carousel-inner .asas {
+  position: absolute;
+  top: 200;
+}
+
+main .section1 {
+  background-color: #EDEDED;
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+main .section1 div {
+  width: 600px;
+}
+main .section1 div div {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+main .section1 div div .rang {
+  background-color: white;
+  width: 50px;
+  height: 38px;
+}
+main .section1 div div .rang2 {
+  background-color: white;
+  width: 80px;
+  height: 38px;
+}
+main .section1 div div .rang3 {
+  background-color: white;
+  width: 120px;
+  height: 38px;
+}
+main .section3 {
+  background-color: #EDEDED;
+  padding: 50px 0;
+  display: flex;
+  justify-content: center;
+  gap: 200px;
+}
+main .section3 .text1 {
+  width: 280px;
+}
+main .section3 .text2 {
+  width: 300px;
+}
+main .section3 .text2 p {
+  opacity: 0.5;
+}
+main .section3 .text2 div {
+  height: 35px;
+  padding: 10px;
+  margin-top: 1px;
+}
+
+footer .container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 150px;
+  padding: 15px 0;
+}
+footer .container p {
+  opacity: 0.5;
+}/*# sourceMappingURL=main.css.map */
